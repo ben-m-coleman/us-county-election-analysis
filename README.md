@@ -62,3 +62,17 @@ The analysis is observational and unweighted by county population. It uses only 
 ## Author
 
 Ben Coleman — M.S. Data Science candidate, University of Colorado Boulder.
+
+
+## Visualizations
+
+The following figures illustrate the relationships examined in this analysis.
+
+### Figure 1
+![Figure 1](figures/figure-1.png)
+
+### Figure 2
+![Figure 2](figures/figure-2.png)
+
+### Figure 3
+![Figure 3](figures/figure-3.png)
